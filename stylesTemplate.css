@@ -1,0 +1,43 @@
+header {
+  width: 98vw;
+  height: 100px;
+  background: lightgray;
+  text-align: center;
+  margin: 10px;
+}
+
+nav {
+  width: 98vw;
+  height: 80px;
+  background: lightgray;
+  text-align: center;
+  margin: 10px;
+}
+
+.content {
+    width: 23%;
+    height: 700px;
+    background: lightgray;
+    text-align: center;
+  
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.main-content {
+  position: relative;
+  width: 51%;
+  height: 700px;
+  background: lightgray;
+  text-align: center;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+footer{
+    width: 98vw;
+    height: 80px;
+    background: lightgray;
+    text-align: center;
+    margin: 10px;
+}
